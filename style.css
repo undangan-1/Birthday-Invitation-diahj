@@ -189,6 +189,7 @@ body {
 }
 
 .foto {
+  
   width: 73%;
   height: 74%;
   object-fit: cover;
@@ -527,6 +528,6 @@ body {
 
   .countdown-item {
     width: 90px;
-    height: 90px;
+    height: 83px;
   }
 }
