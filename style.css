@@ -506,7 +506,7 @@ body {
 
 @media (max-width: 480px) {
   .content h1 {
-    font-size: 4rem;
+    font-size: 2rem;
   }
 
   .hero h2 {
@@ -527,11 +527,12 @@ body {
   }
 
   .countdown-item {
-    width: 90px;
+    width: 95px;
     height: 83px;
   }
 
   .foto {
+     left: 1rem;
     justify-content: center;
     align-items: center;
   }
