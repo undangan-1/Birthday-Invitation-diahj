@@ -530,4 +530,9 @@ body {
     width: 90px;
     height: 83px;
   }
+
+  .foto {
+    justify-content: center;
+    align-items: center;
+  }
 }
