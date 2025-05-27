@@ -505,7 +505,7 @@ body {
 
 @media (max-width: 480px) {
   .hero h1 {
-    font-size: 1rem;
+    font-size: 2rem;
   }
 
   .hero h2 {
